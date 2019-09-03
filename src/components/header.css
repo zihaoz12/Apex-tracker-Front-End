@@ -1,0 +1,10 @@
+.header img{
+    width: 300px;
+}
+
+@media (max-width:700px){
+    .header img{
+        display: block;
+        margin: auto;
+    }
+}
